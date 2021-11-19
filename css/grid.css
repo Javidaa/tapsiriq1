@@ -1,0 +1,58 @@
+[class*=col-]{
+    float: left;
+}
+.col-1{
+    width: 5.5%;
+}
+.col-2{
+    width: 11%;
+}
+.col-3{
+    width: 16.5%;
+}
+.col-4{
+    width: 22%;
+}
+.col-5{
+    width: 27.5%;
+}
+.col-6{
+    width: 33%;
+}
+.col-7{
+    width: 38.5%;
+}
+.col-8{
+    width: 44%;
+}
+.col-9{
+    width: 49.5%;
+}
+.col-10{
+    width: 55%;
+}
+.col-11{
+    width: 60.5%;
+}
+.col-12{
+    width: 66%;
+}
+.col-13{
+    width: 71.5%;
+}
+.col-14{
+    width: 77%;
+}
+.col-15{
+    width: 82.5%;
+}
+.col-16{
+    width: 88%;
+}
+.col-17{
+    width: 93.5%;
+}
+.col-18{
+    width: 100%;
+}
+

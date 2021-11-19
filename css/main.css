@@ -1,0 +1,25 @@
+.btn{
+    border-radius: 120px;
+    padding: 20px 40px;
+    text-transform: uppercase;
+    transition: all .3s ease!important ;
+    transform: translateY();
+    font-size: 13px;
+    font-weight: bold;
+}
+.custom-nav{
+    justify-content: flex-end;
+}
+#banner{
+    padding: 150px 50px;
+    background-color: coral;
+}
+#baner{
+    padding: 150px 50px;
+    background-color: cornflowerblue;
+}
+#feature{
+    background-color: whitesmoke;
+}
+
+
